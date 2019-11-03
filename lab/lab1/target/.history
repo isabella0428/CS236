@@ -1,0 +1,8 @@
+configure
+compile
+run
+compile
+sbt package
+package
+pavkage
+package

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/lxiang_stu3/Isabella/lab1/src/main/scala/SSSP.scala:20:20: not found: type SparkConf[0m
+[0m[[0m[31merror[0m] [0m[0m    val conf = new SparkConf().setAppName(appName)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

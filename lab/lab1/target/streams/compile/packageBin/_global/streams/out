@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/sssp_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wiki-Vote.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/classes/wiki-Vote.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	web-Google.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/classes/web-Google.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SSSP.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/classes/SSSP.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SSSP$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/classes/SSSP$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SSSP$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/classes/SSSP$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SSSP$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/classes/SSSP$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SSSP$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/classes/SSSP$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SSSP$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lxiang_stu3/Isabella/lab1/target/scala-2.11/classes/SSSP$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
